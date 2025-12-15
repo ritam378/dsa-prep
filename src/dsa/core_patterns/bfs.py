@@ -14,10 +14,8 @@ Space Complexity: O(w) where w is maximum width
 
 from typing import List, Optional, Set
 from collections import deque
-import sys
-sys.path.append('..')
-from data_structures.tree import TreeNode
-from data_structures.graph import Graph
+from dsa.data_structures.tree import TreeNode
+from dsa.data_structures.graph import Graph
 
 
 class BFSSolutions:

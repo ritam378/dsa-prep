@@ -12,6 +12,7 @@ from . import dfs
 from . import bfs
 from . import backtracking
 from . import dynamic_programming
+from . import greedy
 
 __all__ = [
     "two_pointer",
@@ -22,4 +23,5 @@ __all__ = [
     "bfs",
     "backtracking",
     "dynamic_programming",
+    "greedy",
 ]

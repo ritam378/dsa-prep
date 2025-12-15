@@ -13,9 +13,7 @@ Space Complexity: O(k)
 
 from typing import List, Optional
 import heapq
-import sys
-sys.path.append('..')
-from data_structures.linked_list import ListNode
+from dsa.data_structures.linked_list import ListNode
 
 
 class KWayMergeSolutions:

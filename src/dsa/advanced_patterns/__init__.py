@@ -12,6 +12,7 @@ from . import monotonic_stack
 from . import heap
 from . import k_way_merge
 from . import modified_binary_search
+from . import divide_conquer
 
 __all__ = [
     "merge_intervals",
@@ -22,4 +23,5 @@ __all__ = [
     "heap",
     "k_way_merge",
     "modified_binary_search",
+    "divide_conquer",
 ]

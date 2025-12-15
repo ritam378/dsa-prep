@@ -13,9 +13,7 @@ Space Complexity: O(1)
 """
 
 from typing import Optional
-import sys
-sys.path.append('..')
-from data_structures.linked_list import ListNode
+from dsa.data_structures.linked_list import ListNode
 
 
 class FastSlowPointerSolutions:
